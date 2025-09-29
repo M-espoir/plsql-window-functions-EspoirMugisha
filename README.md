@@ -80,7 +80,7 @@ For each category, we provide the SQL query, the screenshot of results, and inte
 
 ---
 
-<img width="959" height="346" alt="Image" src="https://github.com/user-attachments/assets/49c9b835-bce7-4375-adab-3c6c1e1896ae" />
+<img width="959" height="346" alt="Image" src="secreenshot assig/1. Ranking – Top 5 Products by Region and Quarter.png" />
 
 ### 1. Ranking – Top 5 Products by Region and Quarter  
 
