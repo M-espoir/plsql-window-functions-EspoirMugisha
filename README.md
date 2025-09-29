@@ -92,4 +92,27 @@ SELECT region, product_id,
 FROM transactions t
 JOIN customers c ON t.customer_id = c.customer_id
 GROUP BY region, product_id, TO_CHAR(sale_date,'Q');
+```
+---
 
+<img width="959" height="346" alt="Image" src="secreenshot assig/1. Ranking – Top 5 Products by Region and Quarter.png" />
+
+---
+
+<img width="959" height="346" alt="Image" src="secreenshot assig/2. Aggregate – Running Monthly Sales Totals.png" />
+
+---
+
+<img width="959" height="346" alt="Image" src="secreenshot assig/3. Navigation – Month-over-Month Growth .png" />
+
+---
+
+<img width="959" height="346" alt="Image" src="secreenshot assig/4. Distribution – Customer Quartiles by Spending.png" />
+
+---
+
+<img width="959" height="346" alt="Image" src="secreenshot assig/5. Moving Average – 3-Month Sales Average.png" />
+
+---
+
+<img width="959" height="346" alt="Image" src="secreenshot assig/create table.png" />
