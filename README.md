@@ -2,8 +2,7 @@
 
 **Course**: Database Development with PL/SQL (INSY 8311)  
 **Instructor**: Eric Maniraguha  
-**Student**: [Your Full Name]  
-**Repository**: plsql-window-functions-[lastname]-[firstname]  
+**Student**: Mugisha Espoir 27824  
 
 ---
 
